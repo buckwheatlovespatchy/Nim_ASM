@@ -14,7 +14,7 @@ Since Makefiles don't work with Nim, I created a `config.nims` file that is stru
 
 # Requirements
 
-futhark >= 0.15.0
-nasm >= 2.16.03
-nim >= 2.2.4
+- futhark >= 0.15.0
+- nasm >= 2.16.03
+- nim >= 2.2.4
 
